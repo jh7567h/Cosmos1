@@ -1,29 +1,29 @@
 # Cosmos1
 ## 一、选择题（多选）
-1 Cosmos Network 是指什么？
-Cosmos Hub 主网
-区块链的互联网
-ATOM 区块链网络多个区块链网络组成的超级网络
+1 Cosmos Network 是指什么？  
+Cosmos Hub 主网   
+区块链的互联网   
+ATOM 区块链网络多个区块链网络组成的超级网络    
 
 2 以下哪些不是跨链基金会的议程（Program）
-促进发展负责任的监管环境
-提升 ATOM 代币的价格
-为全球 Builders 提供全方位支持
-提供 Cosmos 技术栈相关的在线培训
+促进发展负责任的监管环境    
+提升 ATOM 代币的价格   
+为全球 Builders 提供全方位支持    
+提供 Cosmos 技术栈相关的在线培训    
 
 3 以下哪些不是应用专有链的特性
-可升级性
-可扩展性
-高可用性
-独立自主性
-可互操作性
+可升级性    
+可扩展性    
+高可用性    
+独立自主性   
+可互操作性   
 
 4 以下哪些不是 Cosmos 技术栈的核心产品
-Tendermint
-Substrate
-Cosmos SDK
-IBC 跨链协议
-Ignite CLI
+Tendermint    
+Substrate   
+Cosmos SDK    
+IBC 跨链协议    
+Ignite CLI    
 
 5 以下哪些说法是正确的
 Cosmos SDK 被全球超过 200 个 PoS 区块链项目采用
