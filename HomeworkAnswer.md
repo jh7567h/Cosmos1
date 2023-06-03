@@ -1,73 +1,74 @@
 # Cosmos1
 ## 一、选择题（多选）
-1 Cosmos Network 是指什么？  
+1 Cosmos Network 是指什么？ 24  
 Cosmos Hub 主网   
 区块链的互联网   
-ATOM 区块链网络多个区块链网络组成的超级网络    
+ATOM 区块链网络    
+多个区块链网络组成的超级网络    
 
-2 以下哪些不是跨链基金会的议程（Program）
+2 以下哪些不是跨链基金会的议程（Program） 23   
 促进发展负责任的监管环境    
 提升 ATOM 代币的价格   
 为全球 Builders 提供全方位支持    
 提供 Cosmos 技术栈相关的在线培训    
 
-3 以下哪些不是应用专有链的特性
+3 以下哪些不是应用专有链的特性 13    
 可升级性    
 可扩展性    
 高可用性    
 独立自主性   
 可互操作性   
 
-4 以下哪些不是 Cosmos 技术栈的核心产品
+4 以下哪些不是 Cosmos 技术栈的核心产品 25    
 Tendermint    
 Substrate   
 Cosmos SDK    
 IBC 跨链协议    
 Ignite CLI    
 
-5 以下哪些说法是正确的
+5 以下哪些说法是正确的 23   
 Cosmos SDK 被全球超过 200 个 PoS 区块链项目采用    
 Tendermint 是支持拜占庭容错的 PoW 共识引擎   
 IBC 是基于哈希锁机制的跨链协议   
 Tendermint 被全球超过 40% 的 PoS 区块链网络采用    
 
-6 以下哪些 ABCI 方法不是用于执行交易的
+6 以下哪些 ABCI 方法不是用于执行交易的 2   
 BeginBlock    
 CheckTx   
 EndBlock    
 DeliverTx   
 
-7 以下哪些是 Cosmos 链节点的功能分层
+7 以下哪些是 Cosmos 链节点的功能分层 145   
 共识层   
 连接层   
 会话层   
 网络层   
 应用层   
 
-8 Tendermint Core 与应用层之间的通讯接口是
+8 Tendermint Core 与应用层之间的通讯接口是 25   
 REST API    
 ABCI    
 Socket    
 GRPC    
 ABCI++    
 
-9 以下哪些是 Tendermint Core 的特性
+9 以下哪些是 Tendermint Core 的特性 235   
 交易的概率最终性    
 拜占庭容错 BFT   
 交易的快速最终性    
 基于工作量证明 PoW   
 交易的绝对最终性    
 
-10 以下哪些说法是正确的
+10 以下哪些说法是正确的 34    
 通过向网络增加节点可提高网络的吞吐能力   
 ABCI++ 是对区块链网络的水平扩展   
 应用专有链可对链上治理机制做定制化设计   
 IBC 是区块链之间的互操作协议    
 
 ## 二、填空题
-1 Cosmos 的愿景是构建 __________________________    
-2 Cosmos Hub 的主网代号是 _____________, 主通证是 _________   
-3 Tendermint 是 ___________________ 发明的？       
+1 Cosmos 的愿景是构建 ____区块链互联网______________________    
+2 Cosmos Hub 的主网代号是 ___Gaia__________, 主通证是 ___ATOM______   
+3 Tendermint 是 ___Jae Kwon、Ethan Buchman________________ 发明的？       
 4 Tendermint Core 正确运行需要至少占  _______ 投票权的验证人不作恶？    
 5 如果你想授权他人代管你的链账户通证资产，你会使用 _________ 模块功能   
 6 如果你想替他人支付交易手续费，你会使用 _________ 模块功能    
