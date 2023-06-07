@@ -26,7 +26,7 @@ Cosmos SDK
 IBC 跨链协议    
 Ignite CLI    
 
-5 以下哪些说法是正确的 23   
+5 以下哪些说法是正确的 14   
 Cosmos SDK 被全球超过 200 个 PoS 区块链项目采用    
 Tendermint 是支持拜占庭容错的 PoW 共识引擎   
 IBC 是基于哈希锁机制的跨链协议   
