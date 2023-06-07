@@ -80,6 +80,6 @@ IBC 是区块链之间的互操作协议
 ## 三、问答题
 1 IBC 数据包为什么会超时？    
 2 来自中国的技术团队为 IBC 协议贡献了哪些标准？   
-3 跨链 NFT 转移协议（ICS-721）的 Go 语言实现代码库在哪儿？    https://github.com/bianjieai/nft-transfer
+3 跨链 NFT 转移协议（ICS-721）的 Go 语言实现代码库在哪儿？    https://github.com/bianjieai/nft-transfer   
 4 同时支持 Web, Android, iOS 平台的 Cosmos 生态钱包有哪些（不少于两个）？   
-5 Cosmos 中文技术社区翻译的关于 ABCI++ 的最近一篇微信公众号文章链接是什么？    https://mp.weixin.qq.com/s/fC3d1vqcdpvGLeorNIpDUQ
+5 Cosmos 中文技术社区翻译的关于 ABCI++ 的最近一篇微信公众号文章链接是什么？    https://mp.weixin.qq.com/s/fC3d1vqcdpvGLeorNIpDUQ   
